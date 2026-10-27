@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ayla — Private configuration and database
+mistery.env
+*.db
+*.db-journal
